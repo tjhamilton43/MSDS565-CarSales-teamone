@@ -12,7 +12,7 @@ End-to-end CRISP-DM regression project using the instructor-provided modified Ca
 
 ## Data
 
-Place `CarSales_Small.csv` in `data/`, keep it in the class data folder shown in Notebook 1, or update `RAW_CANDIDATES`. Generated CSV files are intentionally ignored by Git because they can exceed repository limits and are reproducible from Notebook 2 onward.
+Place `CarSales_Small.csv` or  `CarSales_mini.csv` in `data/`, keep it in the class data folder shown in Notebook 1, or update `RAW_CANDIDATES`. Generated CSV files are intentionally ignored by Git because they can exceed repository limits and are reproducible from Notebook 2 onward.
 
 ## Reproduce
 
